@@ -1,0 +1,78 @@
+{
+  "identifier" : "29252B3D",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "10",
+      "familyShareable" : false,
+      "internalID" : "9B911769",
+      "localizations" : [
+        {
+          "description" : "Top up to your existing credits",
+          "displayName" : "Add 10 CR",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.kangaroo.10",
+      "referenceName" : "Add 10 CR",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "50",
+      "familyShareable" : false,
+      "internalID" : "1156A920",
+      "localizations" : [
+        {
+          "description" : "Top up to your existing credits",
+          "displayName" : "Add 50 CR",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.kangaroo.50",
+      "referenceName" : "Add 50 CR",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "100",
+      "familyShareable" : false,
+      "internalID" : "9152E0E7",
+      "localizations" : [
+        {
+          "description" : "Top up to your existing credits",
+          "displayName" : "Add 100 CR",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.kangaroo.100",
+      "referenceName" : "Add 100 CR",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "500",
+      "familyShareable" : false,
+      "internalID" : "B10BD8AE",
+      "localizations" : [
+        {
+          "description" : "Top up to your existing credits",
+          "displayName" : "Add 500 CR",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.kangaroo.500",
+      "referenceName" : "Add 500 CR",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}

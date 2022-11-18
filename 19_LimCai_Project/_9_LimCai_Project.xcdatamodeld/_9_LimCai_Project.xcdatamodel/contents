@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="19H15" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Address" representedClassName="Address" syncable="YES" codeGenerationType="class">
+        <attribute name="area" attributeType="String"/>
+        <attribute name="block" attributeType="String"/>
+        <attribute name="contactNo" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="postalCode" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="street" attributeType="String"/>
+        <attribute name="unit" attributeType="String"/>
+        <attribute name="username" attributeType="String"/>
+    </entity>
+    <entity name="Buy" representedClassName="Buy" syncable="YES" codeGenerationType="class">
+        <attribute name="date" attributeType="String"/>
+        <attribute name="platform" attributeType="String"/>
+        <attribute name="poster" attributeType="String"/>
+        <attribute name="price" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="quantity" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="time" attributeType="String"/>
+        <attribute name="title" attributeType="String"/>
+        <attribute name="username" attributeType="String"/>
+    </entity>
+    <entity name="Cart" representedClassName="Cart" syncable="YES" codeGenerationType="class">
+        <attribute name="platform" attributeType="String"/>
+        <attribute name="poster" attributeType="String"/>
+        <attribute name="price" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="quantity" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="title" attributeType="String"/>
+        <attribute name="username" attributeType="String"/>
+    </entity>
+    <entity name="Login" representedClassName="Login" syncable="YES" codeGenerationType="class">
+        <attribute name="credits" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="email" attributeType="String"/>
+        <attribute name="password" attributeType="String"/>
+        <attribute name="username" attributeType="String"/>
+    </entity>
+    <entity name="Popularity" representedClassName="Popularity" syncable="YES" codeGenerationType="class">
+        <attribute name="bg3" optional="YES" attributeType="String"/>
+        <attribute name="logo" optional="YES" attributeType="String"/>
+        <attribute name="quantity" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="title" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Address" positionX="-63" positionY="45" width="128" height="148"/>
+        <element name="Buy" positionX="-63" positionY="72" width="128" height="149"/>
+        <element name="Cart" positionX="-63" positionY="9" width="128" height="119"/>
+        <element name="Login" positionX="-63" positionY="-18" width="128" height="89"/>
+        <element name="Popularity" positionX="-63" positionY="90" width="128" height="103"/>
+    </elements>
+</model>
