@@ -1,11 +1,6 @@
 # Kangaroo App
 An online ecommerce shop called “Kangaroo” that allows user to purchase the desired product, using his available credits
 
-
-# Demo
-<iframe src="https://dev-limcai.pantheonsite.io/wp-content/uploads/2022/05/d7899250-df39-11ec-a47b-5d1c37c8c1e4.mp4"></iframe>
-
-
 ## Features
 - View Products & Categories
 - Search for product
