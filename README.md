@@ -3,10 +3,7 @@ An online ecommerce shop called “Kangaroo” that allows user to purchase the 
 
 
 # Demo
-<video width="250" autoplay>
-  <source src="https://dev-limcai.pantheonsite.io/wp-content/uploads/2022/05/d7899250-df39-11ec-a47b-5d1c37c8c1e4.mp4" type="video/mp4">
-  Loading
-</video>
+<iframe src="https://dev-limcai.pantheonsite.io/wp-content/uploads/2022/05/d7899250-df39-11ec-a47b-5d1c37c8c1e4.mp4"></iframe>
 
 
 ## Features
